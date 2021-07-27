@@ -1,4 +1,4 @@
-# CodePath-PreWork
+# CodePath-Summer-PreWork
 ### App Description
 Pre work for CodePath. IOS app development intro 
 
